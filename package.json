@@ -1,0 +1,31 @@
+{
+  "name": "toots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.2.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "postcss-loader": "^2.1.3",
+    "postcss-smart-import": "^0.7.6",
+    "precss": "^3.1.2",
+    "progress-bar-webpack-plugin": "^1.11.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-hot-loader": "^4.0.0",
+    "redux": "^3.7.2",
+    "style-loader": "^0.20.3",
+    "webpack": "^4.2.0",
+    "webpack-dev-server": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.13"
+  }
+}
